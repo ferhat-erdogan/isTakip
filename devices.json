@@ -2,8 +2,12 @@
   "status": true,
   "devices": [
     {
-      "email": "ferhaterdogan@gmail.com",
+      "email": "ferhaterdogandebug@gmail.com",
       "deviceId": "bc9e99345a6ca87c"
+    },
+    {
+      "email": "ferhaterdogan@gmail.com",
+      "deviceId": "1d9979578d9657fd"
     }
   ]
 }
