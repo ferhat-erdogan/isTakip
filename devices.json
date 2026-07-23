@@ -3,11 +3,13 @@
   "devices": [
     {
       "email": "ferhaterdogandebug@gmail.com",
-      "deviceId": "bc9e99345a6ca87c"
+      "deviceId": "bc9e99345a6ca87c",
+      "duration": ""
     },
     {
       "email": "ferhaterdogan@gmail.com",
-      "deviceId": "1d9979578d9657fd"
+      "deviceId": "1d9979578d9657fd",
+      "duration": "01.01.2027"
     }
   ]
 }
